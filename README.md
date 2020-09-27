@@ -32,6 +32,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 - Change Language Screen
 
 # Screenshots
+<img height="480px" src="raw/1.png"><img height="480px" src="raw/2.png"><img height="480px" src="raw/3.png"><img height="480px" src="raw/4.png"><img height="480px" src="raw/5.png"><img height="480px" src="raw/6.png"><img height="480px" src="raw/7.png">
 
 ## License
 
